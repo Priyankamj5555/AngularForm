@@ -1,0 +1,21 @@
+input.ng-invalid.ng-touched {
+    border: 2px solid red;
+}
+
+span{
+    color: red;
+}
+
+.heading{
+    font-weight: bold;
+    font-size: 40px;
+}
+
+
+.container{
+    background-color: palevioletred;
+    padding: 25px;
+}
+
+
+
